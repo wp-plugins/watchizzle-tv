@@ -37,9 +37,9 @@ You can see the faq page at [watchizzle.com/faq](http://www.watchizzle.com/faq.h
 
 == Screenshots ==
 
-Screenshot-1
+1. screenshot-1
 
-Screenshot-2
+2. screenshot-2
 
 == Change Log ==
 
