@@ -29,17 +29,17 @@ Follow steps described here:
 
 = Can I customize it further? = 
 
-Yes, you can customize it further at [watchizzle.com/share](http://www.watchizzle.com/share.html)(Alternatively you can hand code it as well by following the instructions on this page)
+Yes, you can customize it further at [watchizzle.com/share](http://www.watchizzle.com)(Alternatively you can install it manually by following the instructions on this page)
 
 = What exactly is Watchizzle? =
 
-You can see the faq page at [watchizzle.com/faq](http://www.watchizzle.com/faq.html)
+You can see the faq page at [watchizzle.com/faq](http://www.watchizzle.com)
 
 == Screenshots ==
 
-1. screenshot-1
+1. the-widget
 
-2. screenshot-2
+2. instantly watch tv from each posting
 
 == Change Log ==
 
