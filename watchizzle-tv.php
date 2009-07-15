@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Watchizzle TV
-Plugin URI: <a href="http://www.watchizzle.com/share.html">Watchizzle.com</a>
+Plugin URI: http://www.watchizzle.com
 Description: Watchizzle TV Online DVR. Live TV and Record TV.
 Version: 1.0
-Author: <a href="http://www.watchizzle.com">Watchizzle.com</a>
-Author URI: <a href="http://www.watchizzle.com">Watchizzle.com</a>
+Author: Watchizzle
+Author URI: http://www.watchizzle.com
 
 /*  Copyright 2009 Watchizzle (email: develop@watchizzle.com)
 
