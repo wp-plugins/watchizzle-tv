@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: 
-Plugin URI: 
-Description: 
-Version: 
-Author: 
-Author URI: 
+Plugin Name: Watchizzle
+Plugin URI: http://www.com
+Description: Watchizzle
+Version: 2.0
+Author: http://www.com
+Author URI: http://www.com
 
 /*  Copyright 2009 Watchizzle (email: admin@watchizzle.com)
 

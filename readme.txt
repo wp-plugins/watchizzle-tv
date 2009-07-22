@@ -21,3 +21,6 @@ No longer being supported.
 
 == Change Log ==
 
+1.0 - Release
+
+2.0 - No Longer Supported
