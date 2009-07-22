@@ -1,7 +1,7 @@
-=== Watchizzle ===
-Contributors: Watchizzle
-Donate link: Watchizzle
-Website link: Watchizzle
+=== None ===
+Contributors: None
+Donate link: None
+Website link: None
 Tags: rss
 Requires at least: 2.1.7
 Tested up to: 2.1.7
@@ -17,7 +17,11 @@ No longer being supported.
 
 == Frequently Asked Questions ==
 
+No longer being supported. 
+
 == Screenshots ==
+
+No longer being supported. 
 
 == Change Log ==
 

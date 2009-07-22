@@ -1,13 +1,13 @@
 <?php
 /*
-Plugin Name: Watchizzle
-Plugin URI: http://www.com
-Description: Watchizzle
+Plugin Name: None
+Plugin URI: http://
+Description: None
 Version: 2.0
-Author: http://www.com
-Author URI: http://www.com
+Author: http://
+Author URI: http://
 
-/*  Copyright 2009 Watchizzle (email: admin@watchizzle.com)
+/*  Copyright 2009 None (email: admin@none.com)
 
 	About the Wordpress widget implementation:
 	This program is free software; you can redistribute it and/or modify
